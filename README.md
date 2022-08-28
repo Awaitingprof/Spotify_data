@@ -1,4 +1,4 @@
-# Spotify_data
+# Spotify audio track (1998-2020)
 Spotify is a digital music, podcast, and video service that gives access to millions of songs and other content all over the world. This dataset was gotten from Kaggle. It consists of songs, music genres, and artists that dominated Spotify from 1998 to 2019.
 
 ## Methodology
