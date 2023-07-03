@@ -1,5 +1,5 @@
 # Spotify audio tracks (1998-2020)
-Spotify is a digital music, podcast, and video service that gives access to millions of songs and other content all over the world. This analysis is mainly to derive insight on the songs, music genres, and artists that dominated Spotify from 1998 to 2019. This dataset was gotten from Kaggle.
+Spotify is a digital music, podcast, and video service that gives access to millions of songs and other content all over the world. This analysis is mainly to derive insight into the songs, music genres, and artists that dominated Spotify from 1998 to 2019. This dataset was gotten from Kaggle.
 
 ## Methodology
 ### Data cleaning 
@@ -7,11 +7,11 @@ Spotify is a digital music, podcast, and video service that gives access to mill
 ### Data Visualization
 
 ### Data cleaning 
-The duplicate data and blank cells were removed. Other necessary cleaning, such as converting the data from upper and lower format to proper format, was done. The dataset was transformed from unstructured to structured and well formatted. . Full documentation here :
+The duplicate data and blank cells were removed. Another necessary cleaning, such as converting the data from upper and lower format to proper format, was done. The dataset was transformed from unstructured to structured and well-formatted. Full documentation here :
 https://ebenezeradebiyi.wixsite.com/laconic-data/post/my-third-data-analysis-project-experience-it-s-getting-better
 
 ### Data Analysis
-The data was analyzed with Microsoft Excel.
+The data were analyzed with Microsoft Excel.
 Full documentation here :
 https://ebenezeradebiyi.wixsite.com/laconic-data/post/my-third-data-analysis-project-experience-it-s-getting-better
 
